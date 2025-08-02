@@ -86,7 +86,7 @@ Terima kasih!`;
     {
       icon: Mail,
       title: 'Email',
-      details: ['info@ardelyacraft.com', 'support@ardelyacraft.com'],
+      details: ['ardelyacraft28@gmail.com'],
       description: 'Respon dalam 24 jam',
     },
     {

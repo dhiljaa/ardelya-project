@@ -77,7 +77,7 @@ Terima kasih!`;
               </div>
               <div className="flex items-center space-x-3 text-sm text-muted-foreground">
                 <Mail className="w-4 h-4 text-gold" />
-                <span>info@ardelyacraft.com</span>
+                <span>ardelyacraft28@gmail.com</span>
               </div>
               <div className="flex items-start space-x-3 text-sm text-muted-foreground">
                 <MapPin className="w-4 h-4 text-gold mt-0.5" />
