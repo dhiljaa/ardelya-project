@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Sparkles, Crown, Gem, Palette } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import heroImage from '@/assets/hero-image.jpg';
+import heroImage from '@/assets/songket.jpg';
 
 const Index = () => {
   const features = [
